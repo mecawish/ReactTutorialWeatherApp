@@ -5,7 +5,7 @@ To start:
 
 ```
 > git clone https://github.com/mecawish/ReactTutorialWeatherApp.git
-> cd ReduxSimpleStarter
+> cd ReactTutorialWeatherApp
 > npm install
 > npm start
 ```
