@@ -9,3 +9,7 @@ To start:
 > npm install
 > npm start
 ```
+
+Needs fixing:
+
+Google Maps doesn't load  correctly. Google Maps started requiring an API key.
